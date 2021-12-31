@@ -8,6 +8,7 @@
 >  - HomeDepot.com
 >  - Roku.com
 >  - iplocation.net (this one makes sense because the restrictor acts like a firewall, so the IP address will not be the machine's address.
+
 =========================================
 
 A JS-enabled web page can access any of the APIs that a web browser provides. The user has only a limited control and some APIs cannot be restricted by the user easily. JavaScript Restrictor aims to improve the user control of the web browser. Similarly to a firewall that controls the network traffic, JavaScript Restrictor controls the APIs provided by the browser. The goal is to improve the privacy and security of the user running the extension.
